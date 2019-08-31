@@ -1,2 +1,2 @@
 # Image-Classifier-
-Image classifier made using Tensor Flow 
+Image classifier web app made using Tensor Flow.
